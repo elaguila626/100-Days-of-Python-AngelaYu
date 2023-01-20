@@ -7,5 +7,5 @@
 
 ## Band Name Generator
 
-![band name generator](https://media.giphy.com/media/gouFw9VMHXNmNqb48r/giphy.gif
+![band name generator](Band-Name-Generator.gif)
 
