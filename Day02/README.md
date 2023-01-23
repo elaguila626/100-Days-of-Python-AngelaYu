@@ -5,7 +5,7 @@
 - https://replit.com/@EdwinAguilar5/D2-Exercise2-BMICalc?v=1
 - https://replit.com/@EdwinAguilar5/D2-Exercise3-LifeInWks?v=1
 
-## _Tip Calculator_
+## _Project: Tip Calculator_
 
 ![tip calculator](Tip-Calculator.gif)
 
