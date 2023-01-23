@@ -7,7 +7,7 @@
 - https://replit.com/@EdwinAguilar5/D1-Exercise3-InputFx?v=1
 - https://replit.com/@EdwinAguilar5/D1-Exercise4-Variables?v=1
 
-## _Band Name Generator_
+## _Project: Band Name Generator_
 
 ![band name generator](Band-Name-Generator.gif)
 
