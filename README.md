@@ -1,4 +1,4 @@
-# 100-Days-of-Python
+# 100 Days of Python
 
 [![N|Solid](https://www.pythonstacks.com/media/post_images/python_img_min.jpg)](https://nodesource.com/products/nsolid)
 
