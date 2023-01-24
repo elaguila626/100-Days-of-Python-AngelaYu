@@ -6,11 +6,11 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 
 ## 🏁 Beginner
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day01">Day 1</a>: Working with Variables in Python to Manage Data
-- [Day 2](day02): Understanding Data Types and How to Manipulate Strings
-- [Day 3](day03): Control Flow and Logical Operators
-- [Day 4](day04): Randomisation and Python Lists
-- [Day 5](day05): Python Loops
-- [Day 6](day06): Python Functions & Karel
-- [Day 7](day07): Hangman Game
-- [Day 8](day08): Function Parameters & Caesar Cipher
-- [Day 9](day09): Dictionaries, Nesting and the Secret Auction
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day02">Day 2</a>: Understanding Data Types and How to Manipulate Strings
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day03">Day 3</a>: Control Flow and Logical Operators
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day04">Day 4</a>: Randomisation and Python Lists
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day05">Day 5</a>: Python Loops
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day06">Day 6</a>: Python Functions & Karel
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day07">Day 7</a>: Hangman Game
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day08">Day 8</a>: Function Parameters & Caesar Cipher
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day09">Day 9</a>: Dictionaries, Nesting and the Secret Auction
