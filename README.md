@@ -2,7 +2,7 @@
 
 [![N|Solid](https://www.pythonstacks.com/media/post_images/python_img_min.jpg)](https://nodesource.com/products/nsolid)
 
-I'm currently completing "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course from Udemy. My goal is to become an expert of python so I chose to take this course in the hope it would provide structure, guidance and accountability while "self-learning". Along with my udemy course I'll also be supplementing my learning with books and videos.
+I'm currently on the journey to completing "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course from Udemy. My goal is to become an expert of python so I chose to take this course in the hope it would provide structure, guidance and accountability while "self-learning". Along with my udemy course I'll also be supplementing my learning with books and videos.
 
 ## 🏁 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
