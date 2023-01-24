@@ -12,4 +12,4 @@
 
 ![Treasure Island](Treasure-Island.gif)
 
-https://replit.com/@EdwinAguilar5/Band-Name-Generator?v=1
+https://replit.com/@EdwinAguilar5/Treasure-Island?v=1
