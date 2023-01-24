@@ -5,7 +5,7 @@
 I'm currently on the journey to completing "100 Days of Code - The Complete Python Pro Bootcamp for 2023" course from Udemy. My goal is to become an expert of python so I chose to take this course in the hope it would provide structure, guidance and accountability while "self-learning". Along with my udemy course I'll also be supplementing my learning with books and videos.
 
 ## 🏁 Beginner
-- [Day 1](day01): Working with Variables in Python to Manage Data
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day01">Day 1</a>: Working with Variables in Python to Manage Data
 - [Day 2](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 3](day03): Control Flow and Logical Operators
 - [Day 4](day04): Randomisation and Python Lists
