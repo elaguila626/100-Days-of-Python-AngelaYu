@@ -14,3 +14,4 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day07">Day 7</a>: Hangman Game
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day08">Day 8</a>: Function Parameters & Caesar Cipher
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day09">Day 9</a>: Dictionaries, Nesting and the Secret Auction
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day09">Day 10</a>: Functions with Outputs
