@@ -5,11 +5,11 @@
 - https://replit.com/@EdwinAguilar5/D10-Exercise1-FunctionWOutputs?v=1
 - https://replit.com/@EdwinAguilar5/D10-Exercise2-DaysInMonth?v=1
 
-## Project: _Blind Auction_
+## Project: _Calculator_
 
-![Blind-Auction](Blind-Auction.gif)
+![Calculator](Calculator.gif)
 
-https://replit.com/@EdwinAguilar5/D9-BlindAuction?v=1
+https://replit.com/@EdwinAguilar5/D10-Calculator?v=1
 
 
 
