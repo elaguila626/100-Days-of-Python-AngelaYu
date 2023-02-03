@@ -1,5 +1,5 @@
 # Day 11
-## Blackjack Game Capstone Project
+## Blackjack Capstone Project
 
 ![BJ-Capstone-Project](BJ-Capstone-Project.gif)
 
