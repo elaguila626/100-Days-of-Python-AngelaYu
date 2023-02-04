@@ -15,4 +15,5 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day08">Day 8</a>: Function Parameters & Caesar Cipher
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day09">Day 9</a>: Dictionaries, Nesting and the Secret Auction
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day10">Day 10</a>: Functions with Outputs
-- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day11">Day 11</a>: The Blackjack Capstone Project
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day11">Day 11</a>: Capstone Project: Blackjack
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day12">Day 12</a>: Project: Guess The Number
