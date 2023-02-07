@@ -17,3 +17,4 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day10">Day 10</a>: Functions with Outputs
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day11">Day 11</a>: Capstone Project: Blackjack
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day12">Day 12</a>: Scope & Number Guessing Game
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day13">Day 13</a>: Debugging: How to Find and Fix Errors in Your Code
