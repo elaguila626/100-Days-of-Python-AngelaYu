@@ -19,5 +19,5 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day12">Day 12</a>: Scope & Number Guessing Game
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day13">Day 13</a>: Debugging: How to Find and Fix Errors in Your Code
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day14">Day 14</a>: Higher Lower Game Project
-## 💪 Intermiediate
+## 💪 Intermediate
 
