@@ -146,6 +146,7 @@ while purchasing_coffee:
     elif user_selects_coffee == 'stop':
         purchasing_coffee = False
     elif resources['water'] > 100 and resources['milk'] > 0 and resources['coffee'] > 18:
+        print("Please insert coins:")
         ask_user_coins()
         final_sum = user_sum[0]
         change(user_selects_coffee)
