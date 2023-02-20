@@ -8,9 +8,6 @@ coffee_maker = CoffeeMaker()
 money_machine = MoneyMachine()
 
 menu = Menu()
-#menu.get_items()
-#menu.find_drink(user_selects)
-#user_selects = input(f"What would you like {menu.get_items()}?")
 
 is_on = True
 
@@ -23,6 +20,7 @@ while is_on:
     elif user_selects == 'off':
         is_on = False
     else:
+        #menu.find_drink(user_selects)returns an object not a string
         drink = menu.find_drink(user_selects)
         if money_machine.make_payment(drink.cost) and coffee_maker.is_resource_sufficient(drink) == True:
             coffee_maker.make_coffee(drink)
@@ -30,17 +28,6 @@ while is_on:
             is_on = False
 
 
-
-
-# coffee_maker.is_resource_sufficient(items)
-# money_machine.make_payment()
-#print(coffee_maker.is_resource_sufficient(items)) = True
-# coffee_maker.make_coffee(items)
-
-#items = MenuItem(user_selects,300,200,100,0)
-# print(items.name)
-# print(items.cost)
-# print(items.ingredients)
 
 
 
