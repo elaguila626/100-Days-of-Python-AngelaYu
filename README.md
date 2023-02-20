@@ -21,4 +21,4 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day14">Day 14</a>: Higher Lower Game Project
 ## 💪 Intermediate
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day15">Day 15</a>: Local Development Environment Setup & the Coffee Machine
-
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day16">Day 16</a>: Object Oriented Programming (OOP)
