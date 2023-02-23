@@ -20,16 +20,3 @@ while quiz.still_has_questions():
 print("You've completed the quiz!")
 print(f"Your final score is: {quiz.score}/{quiz.question_number}")
 
-# for question_number in question_bank:
-#     number = 0
-#     question_pool = QuizBrain(question_number.text,number)
-#     ask_question = question_pool.next_question(question_number.text, question_number.answer)
-
-
-
-
-
-# print(question_bank)
-#Access the text and answer from the objects in a list.
-# print(question_bank[0].text)
-# print(question_bank[0].answer)
