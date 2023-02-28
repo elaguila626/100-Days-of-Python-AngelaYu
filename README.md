@@ -23,3 +23,4 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day15">Day 15</a>: Local Development Environment Setup & the Coffee Machine
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day16">Day 16</a>: Object Oriented Programming (OOP)
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day17">Day 17</a>: The Quiz Project & the Benefits of OOP
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day18">Day 18</a>: Turtle & The Graphic User Interphase (GUI)
