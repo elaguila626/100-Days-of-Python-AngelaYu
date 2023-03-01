@@ -2,7 +2,7 @@
 ## Turtle & the Graphic User Interphase (GUI)
 
 ## Exercises
-- [Turtle Challenge 1 - Draw a Square](text.com)
+- [Turtle Challenge 1 - Draw a Square](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_square.py)
 - [Turtle Challenge 2 - Draw a Dashed Line](text.com)
 - [Turtle Challenge 3 - Draw Different Shapes](text.com)
 - [Turtle Challenge 4 - Generate a Random Walk](text.com)
