@@ -3,9 +3,9 @@
 
 ## Exercises
 - [Turtle Challenge 1 - Draw a Square](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_square.py)
-- [Turtle Challenge 2 - Draw a Dashed Line](text.com)
-- [Turtle Challenge 3 - Draw Different Shapes](text.com)
-- [Turtle Challenge 4 - Generate a Random Walk](text.com)
+- [Turtle Challenge 2 - Draw a Dashed Line](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_dashed_line.py)
+- [Turtle Challenge 3 - Draw Different Shapes](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_shapes.py)
+- [Turtle Challenge 4 - Generate a Random Walk](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_random_walk.py)
 - [Turtle Challenge 5 - Draw a Spirograph](text.com)
  
 ## Project: _Hirst Painting_
