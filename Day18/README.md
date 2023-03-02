@@ -8,9 +8,10 @@
 - [Turtle Challenge 4 - Generate a Random Walk](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_random_walk.py)
 - [Turtle Challenge 5 - Draw a Spirograph](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_spirograph.py)
  
-## Project: _Hirst Painting_
+## Project: Hirst Painting
 
 ![HPProject](HPProject.gif)
 
-https://replit.com/@EdwinAguilar5/D7-Exercise5-Hangman?v=1
+- [Hirst Painting Project](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/main.py)
+
 
