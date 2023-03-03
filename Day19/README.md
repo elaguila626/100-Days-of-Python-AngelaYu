@@ -2,7 +2,7 @@
 ## Instances, State, and Higher Order Functions
 
 ## Exercises
-- [Etch-A-Sketch App](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/draw_square.py)
+- [Etch-A-Sketch App](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day19/Etch_A_Sketch_App.py)
 
 ## Project: Hirst Painting
 
