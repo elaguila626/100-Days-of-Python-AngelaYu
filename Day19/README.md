@@ -6,7 +6,7 @@
 
 ## Project: Hirst Painting
 
-![HPProject](HPProject.gif)
+![TurtleRaceProject](TurtleRaceProject.gif)
 
 - [Hirst Painting Project](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day18/main.py)
 
