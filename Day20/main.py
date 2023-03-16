@@ -15,9 +15,6 @@ screen.onkey(snake.down,"Down")
 screen.onkey(snake.left,"Left")
 screen.onkey(snake.right,"Right")
 
-#I originally wrote a list, but switched to a tuple. x_position = [0,-20,-40]
-#segments = []
-
 game_is_on = True
 
 while game_is_on:
