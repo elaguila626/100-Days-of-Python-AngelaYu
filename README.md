@@ -25,4 +25,5 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day17">Day 17</a>: The Quiz Project & the Benefits of OOP
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day18">Day 18</a>: Turtle & the Graphic User Interphase (GUI)
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day19">Day 19</a>: Instances, State and Higher Order Functions
-- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day20">Day 20</a>: Build the Snake Game Part 1: Animatino & Coordinates
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day20">Day 20</a>: Build the Snake Game Part 1: Animation & Coordinates
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day20">Day 21</a>: Build the Snake Game Part 2: Inheritance and Splicing
