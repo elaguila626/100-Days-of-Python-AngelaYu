@@ -5,4 +5,4 @@
 
 ![snakepp2.gif](snakepp2.gif)
 
-- [Snake Game Part 2](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day20/main.py)
+- [Snake Game Part 2](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day21/main.py)
