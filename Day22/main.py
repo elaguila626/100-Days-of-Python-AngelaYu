@@ -14,8 +14,6 @@ scoreboard = Scoreboard()
 r_paddle = Paddle((350,0))
 l_paddle = Paddle((-350,0))
 ball = Ball()
-# screen.tracer(1,10)
-# ball = Ball((375,275))
 
 screen.listen()
 screen.onkey(r_paddle.go_up,"Up")
@@ -24,7 +22,6 @@ screen.onkey(l_paddle.go_up,"w")
 screen.onkey(l_paddle.go_down,"s")
 
 game_is_on = True
-
 
 while game_is_on:
     time.sleep(ball.move_speed)
