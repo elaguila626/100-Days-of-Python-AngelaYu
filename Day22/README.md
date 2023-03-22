@@ -5,5 +5,5 @@
 
 ![pongp.gif](pongp.gif)
 
-- [Pong Game](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day21/main.py)
+- [Pong Game](https://raw.githubusercontent.com/elaguila626/100-Days-of-Python-AngelaYu/main/Day22/main.py)
 
