@@ -27,4 +27,5 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day19">Day 19</a>: Instances, State and Higher Order Functions
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day20">Day 20</a>: Build the Snake Game Part 1: Animation & Coordinates
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day21">Day 21</a>: Build the Snake Game Part 2: Inheritance and Splicing
-- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day21">Day 22</a>: Build Pong: The Famous Arcade Game
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day22">Day 22</a>: Build Pong: The Famous Arcade Game
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day23">Day 23</a>: Capstone Project: The Turtle Crossing
