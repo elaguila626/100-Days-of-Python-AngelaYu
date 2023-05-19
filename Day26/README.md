@@ -13,5 +13,3 @@
 
 ![NATO](NATO.gif)
 
-https://replit.com/@EdwinAguilar5/D7-Exercise5-Hangman?v=1
-
