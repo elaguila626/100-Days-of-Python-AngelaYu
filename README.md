@@ -29,3 +29,5 @@ I'm currently on the journey to completing "100 Days of Code - The Complete Pyth
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day23">Day 23</a>: Capstone Project: The Turtle Crossing
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day24">Day 24</a>: Files, Directories, and Paths. 
 - <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day25">Day 25</a>: Working with CSV data and the Pandas Library.
+- <a href="https://github.com/elaguila626/100-Days-of-Python-AngelaYu/tree/main/Day25">Day 26</a>: List Comprehension
+ and the NATO alphabet
