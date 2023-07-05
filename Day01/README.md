@@ -1,8 +1,8 @@
-# Day 1
-## Working with Variables in Python to Manage Data
+# SQL Statement Fundamentals
 
-## Exercises
-- https://replit.com/@EdwinAguilar5/D1-Exercise-Printing?v=1
+## Challenges
+### Select Statement
+
 - https://replit.com/@EdwinAguilar5/D1-Exercise2-DebugPractice?v=1
 - https://replit.com/@EdwinAguilar5/D1-Exercise3-InputFx?v=1
 - https://replit.com/@EdwinAguilar5/D1-Exercise4-Variables?v=1
